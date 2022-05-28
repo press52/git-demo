@@ -1,2 +1,4 @@
 mama papa
 grandma grandpa
+brother sister
+uncle aunt
